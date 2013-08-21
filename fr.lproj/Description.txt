@@ -1,19 +1,19 @@
-Application for tracking your everyday activities. 
+Cette application est un bon outil pour le suivi de vos activités quotidiennes. 
 
-Spending only a few minutes a day on this app you will get daily, weekly and monthly statistics in the form of diagrams and graphs. Using this data you'll be able to control and manage you time. 
+Prendre quelques minutes par jour sur cette application vous permettra d’obtenir des statistiques quotidiennes, hebdomadaires et mensuelles en diagrammes et en graphiques. Vous serez en mesure de mieux contrôler et gérer votre temps. 
 
-aTimeLogger 2 is the right solution for everyone: 
-- business people with intensive daily routine; 
-- sportsmen who value every minute of their day; 
-- parents in order to control their children's daily activities; 
-- everyone who is interested in what activities they spend their day on and those who want to control and optimize their time. 
+aTimeLogger 2 est une bonne solution pour tous: 
+- les gens d’affaires avec une routine d’une grande intensité; 
+- les sportifs valorisant chaque minute de leur journée; 
+- les parents voulant assurer une bonne répartition des activités quotidiennes de leurs enfants;
+- tous ceux qui désirent connaître la répartition de leurs activités quoditidennes, qui veulent bien gérer et optimiser leur temps. 
 
-Application features: 
-- easy and intuitive interface 
-- simultaneous activities allowed 
-- pause/resume activities 
-- many statistics available in form of graphs and pie charts 
-- reports in different formats (CSV and HTML) 
-- backup and restore 
-- a huge number of icons for categories and ability to change their color 
-- the best support :-)
+Caractéristiques: 
+- interface simple et intuitif 
+- activités simultanées 
+- pause/reprendre une activité 
+- des statistiques disponible en graphiques et en diagrammes circulaires 
+- rapports en différents formats (CSV et HTML) 
+- copie de sauvegarde et restauration 
+- un très grand choix d’icônes pour les catégories et le choix de couleur 
+- le meilleur soutien technique :-)
